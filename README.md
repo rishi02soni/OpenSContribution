@@ -306,10 +306,4 @@ Every contribution and interaction helps open-source projects grow.
 </p>
 ```
 
-### One important thing
 
-For an **SDE-focused GitHub profile**, I would actually make this a little more contribution-heavy rather than putting too much generic tech-stack content. Your strongest positioning should be:
-
-**Open Source → Backend Engineering → Cloud/DevOps → AI → Community**
-
-That makes the profile look much more aligned with an SDE career rather than simply a student portfolio.
