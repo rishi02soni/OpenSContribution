@@ -1,10 +1,7 @@
 # OpenSContribution
 
-Absolutely. Here’s a **professional GitHub Profile README** focused specifically on your **Open Source contribution journey**, using your GitHub username **`rishi02soni`**.
 
-Copy this directly into `README.md` in your profile repository: `rishi02soni/rishi02soni`.
-
-````markdown
+````
 # Hi, I'm Rishi Soni 👋
 
 ### Software Developer | Open Source Contributor | Microsoft Student Ambassador
